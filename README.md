@@ -1,3 +1,1 @@
-bez vah - jsou znamky 1, 2, 3, 4 a 5. konzole ukaze zda je znamka vyborna, chvalitebna, dobra,...
-
-s vahama - jsou znamky 1, 1-, 2, 2-,... zadate znamky a jejich vahy a konzole ukaze vas finalni prumer.
+nevim pico vypocitej si prumer kokote
